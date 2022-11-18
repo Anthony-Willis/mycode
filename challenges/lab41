@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+char_name= input(" Which character do you want to know about? (Starlord, Mystique, Hulk")
+
+
